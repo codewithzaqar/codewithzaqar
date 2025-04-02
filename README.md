@@ -9,4 +9,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithzaqar&show_icons=true&locale=en&layout=compact" alt="codewithzaqar" /></p>
 
-if you want see my commit so there is PerfectDevloper(it me)
+if you want see my commit so there is PerfectDevloper(it is me)
