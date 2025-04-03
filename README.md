@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaqar Hakobyan</h1>
-<h3 align="center">A passionate Python developer from Armenia</h3>
+<h3 align="center">A passionate Python and C++ developer from Armenia</h3>
 
 <img src="image (2).png"></img>
 
