@@ -7,4 +7,4 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-if you want see my commit so there is PerfectDevloper(it is me)
+if you want see my commit so there is PerfectDevloper(it's me)
