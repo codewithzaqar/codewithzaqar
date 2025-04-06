@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="image (2).png">
+<img src="image (2)(1).png">
 
 I'm Zaqar from Armania, and passionate developer who loves building both **CLI** and **UI** tools, managing   repositories, and committing to code that matters. Whether it's backend scripts or frontend design, I'm all about clean commits, smart workflows, and open-source collaboration
 
