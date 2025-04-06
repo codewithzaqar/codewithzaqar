@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zaqar Hakobyan</h1>
-<h3 align="center">A passionate Python and C++ developer from Armenia</h3>
+### Hi there 👋
 
-<img src="image (2).png"></img>
+<img src="image (2).png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithzaqar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithzaqar" /> </p>
+I'm Zaqar from Armania, and passionate developer who loves building both **CLI** and **UI** tools, managing   repositories, and committing to code that matters. Whether it's backend scripts or frontend design, I'm all about clean commits, smart workflows, and open-source collaboration
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-if you want see my commit so there is PerfectDevloper(it's me)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithzaqar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
