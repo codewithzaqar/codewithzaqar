@@ -6,3 +6,4 @@ I'm Zaqar from Armenia, and passionate developer who loves building both **CLI**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithzaqar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithzaqar" />
 
 ![codewithzaqar github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=codewithzaqar)
+![codewithzaqar github-trophies](https://stats.dooboo.io/api/github-trophies?login=codewithzaqar)
