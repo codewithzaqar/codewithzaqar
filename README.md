@@ -75,7 +75,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithzaqar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithzaqar" />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithzaqar&theme=github-dark"/>
+  <img src="https://streak-stats.demolab.com/?user=codewithzaqar&theme=github-dark"/>
 </p>
 
 ---
